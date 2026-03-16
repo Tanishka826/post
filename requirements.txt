@@ -8,4 +8,4 @@ psycopg2-binary==2.9.11
 python-dotenv==1.0.0
 gunicorn==20.1.0
 setuptools==68.0.0
-email-validator==2.0.0s
+email-validator==2.0.0
