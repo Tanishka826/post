@@ -2,6 +2,9 @@ from flask import Flask, render_template, request, redirect, session, url_for
 from flask_login import LoginManager, current_user, login_required, login_user, logout_user
 from model.users import Users
 from model.users import db
+
+import os 
+
 import os 
 
 from form import RegisterForm
